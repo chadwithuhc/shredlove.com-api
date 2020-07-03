@@ -18,7 +18,19 @@ Getting up and running is as easy as 1, 2, 3.
     npm install
     ```
 
-3. Start your app
+3. Add your mongodb connection
+
+    ```
+    touch .env
+    ```
+    ```
+    MONGO_URI=mongodb://site.com:port/database
+    ```
+
+> Note: You can connect to the mongodb remotely using the cli command
+> $ mongo -u <user> -p <pass> <host>:<port>/<db>
+
+4. Start your app
 
     ```
     npm run dev

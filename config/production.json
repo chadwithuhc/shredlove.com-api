@@ -1,4 +1,4 @@
 {
-  "host": "shredlove-com-api-app.feathersjs.com",
+  "host": "shredlove-com-api.herokuapp.com",
   "port": "PORT"
 }
