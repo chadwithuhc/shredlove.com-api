@@ -28,7 +28,9 @@ Getting up and running is as easy as 1, 2, 3.
     ```
 
 > Note: You can connect to the mongodb remotely using the cli command
+> ```
 > $ mongo -u <user> -p <pass> <host>:<port>/<db>
+> ```
 
 4. Start your app
 
