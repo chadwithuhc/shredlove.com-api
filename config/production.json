@@ -1,4 +1,5 @@
 {
   "host": "shredlove-com-api.herokuapp.com",
-  "port": "PORT"
+  "port": "PORT",
+  "allowUpdates": false
 }
